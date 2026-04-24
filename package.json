@@ -1,0 +1,11 @@
+{
+  "name": "cse370-database-project",
+  "version": "1.0.0",
+  "description": "City Corporation Portal",
+  "scripts": {
+    "dev": "php -S localhost:8000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
